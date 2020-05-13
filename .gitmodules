@@ -1,3 +1,0 @@
-[submodule "lib/gentoo"]
-	path = lib/gentoo
-	url = https://github.com/gentoo/gentoo
